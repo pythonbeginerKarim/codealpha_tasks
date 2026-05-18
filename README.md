@@ -9,5 +9,7 @@ Student ID: CA/DF1/65771.
 
 Completed Tasks:
 Task1. Research Report — Genetic Engineering and CRISPR.
+
 Task2. Case Study Analysis — Moderna Biotechnology.
+
 Task3. Virtual Practical Task — E. coli Research.
